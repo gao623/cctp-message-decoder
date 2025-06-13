@@ -1,0 +1,10 @@
+{
+  "name": "cctp-message-decoder",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "@openzeppelin/contracts": "3.4.2",
+    "@summa-tx/memview-sol": "2.1.2"
+  }
+}
